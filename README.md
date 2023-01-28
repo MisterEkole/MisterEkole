@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am an Engineer working principally on deep learning applications in computer vision and robot learning.My major research areas of interest include: deep Learning in computer vision, reinforcement learning, robotics and optimization.
 - 💬 Ask me about robotics, computer vision, deep learning, control engineering,biomechatronics.
-- 📫 How to reach me: @Twitter==mister_ekole  @LinkedIn==Mitterrand Ekole
+- 📫 How to reach me: @Twitter:mister_ekole  @LinkedIn:Mitterrand Ekole
 - 👯 I’m looking to collaborate on projects at the intersection of robotics, computer vision and healthtech.
 - ⚡ Fun fact: I like to train deep neural nets and eat eru while doing so.
 <!--
